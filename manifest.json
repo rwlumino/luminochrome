@@ -8,12 +8,12 @@
         },
         "theme": {
             "colors": {
-                "frame": [ 249, 180, 214 ],
+                "frame": [ 41, 204, 166 ],
                 "frame_inactive": [ 39, 124, 93 ],
                 "ntp_background": [ 255, 255, 255 ],
                 "ntp_link": [ 36, 70, 0 ],
                 "ntp_section": [ 207, 221, 192 ],
-                "ntp_text": [ 20, 20, 20 ],
+                "ntp_text": [ 255, 255, 255 ],
                 "ntp_header": [ 75, 255, 180, 0.5 ],
                 "tab_text": [ 255, 255, 255 ],
                 "tab_background_text": [ 22, 41, 33 ],
