@@ -17,8 +17,8 @@
                 "ntp_header": [ 75, 255, 180, 0.5 ],
                 "tab_text": [ 255, 255, 255 ],
                 "tab_background_text": [ 22, 41, 33 ],
-                "toolbar": [ 140, 238, 195 ],
-                "bookmark_text": [ 100, 0, 100 ],
+                "toolbar": [ 41, 204, 166 ],
+                "bookmark_text": [ 255, 255, 255 ],
                 "button_background": [ 249, 180, 214 ]
             },
             "images": {
