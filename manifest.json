@@ -28,7 +28,7 @@
                 "theme_frame_incognito_inactive": "images/theme_frame_incognito_inactive.png"
             },
             "tints": {
-                "buttons": [ 0.33, 0.9, 0.33 ]
+                "buttons": [ 1, 1, 1 ]
             },
             "properties": {
                 "ntp_background_repeat": "repeat"
