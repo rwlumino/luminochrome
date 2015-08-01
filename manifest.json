@@ -1,18 +1,25 @@
 {
-    "name": "Lumino theme",
+    "name": "Lumino",
+    "description": "Lumino theme for Google Chrome",
+        "icons": {
+              "128": "images/icon-128.jpg",
+              "16": "images/icon-32.jpg",
+              "48": "images/icon-64.jpg"
+        },
         "theme": {
             "colors": {
                 "frame": [ 249, 180, 214 ],
-                "frame_inactive": [ 255, 219, 237 ],
+                "frame_inactive": [ 39, 124, 93 ],
                 "ntp_background": [ 255, 255, 255 ],
                 "ntp_link": [ 36, 70, 0 ],
                 "ntp_section": [ 207, 221, 192 ],
                 "ntp_text": [ 20, 20, 20 ],
-                "ntp_header": [ 75, 255, 180, 0.3 ],
+                "ntp_header": [ 75, 255, 180, 0.5 ],
                 "tab_text": [ 255, 255, 255 ],
                 "tab_background_text": [ 22, 41, 33 ],
                 "toolbar": [ 140, 238, 195 ],
-                "bookmark_text": [ 100, 0, 100 ]
+                "bookmark_text": [ 100, 0, 100 ],
+                "button_background": [ 249, 180, 214 ]
             },
             "images": {
                 "theme_frame": "images/theme_frame.png",
@@ -23,8 +30,7 @@
                 "theme_frame_incognito_inactive": "images/theme_frame_incognito_inactive.png"
             },
             "tints": {
-                "buttons": [ 0.33, 0.5, 0.47 ],
-                "frame": [ 0.5, 0.33, 1.0 ]
+                "buttons": [ 0.33, 0.9, 0.33 ]
             },
             "properties": {
                 "ntp_background_repeat": "repeat"
