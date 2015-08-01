@@ -22,8 +22,6 @@
                 "button_background": [ 249, 180, 214 ]
             },
             "images": {
-                "theme_frame": "images/theme_frame.png",
-                "theme_frame_inactive": "images/theme_frame_inactive.png",
                 "theme_ntp_background": "images/fading_tall.gif",     
                 "theme_toolbar": "images/theme_toolbar.png",
                 "theme_frame_incognito": "images/theme_frame_incognito.png",
